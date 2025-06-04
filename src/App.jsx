@@ -6,12 +6,12 @@ import Footer from './components/footer';
 
 function App() {
   return (
-    <div className='bg-yellow-100'>
+   <>
      <Home />
      <Navbar />
      <Features />
      <Footer />
-         </div> 
+         </>
      )
 }
 
